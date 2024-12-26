@@ -22,7 +22,8 @@ Shortcuts for the manual:
 * mdr webflyx
 * ls
 * ls -a
-
+* find .git in foldername
+* cat .git in foldername
 
 Porcelain and plumbing
 
@@ -50,7 +51,6 @@ Assignment
 * git config --global init.defaultBranch master
 * git init
 * content
-* 
 
 Status
 
@@ -103,7 +103,6 @@ Learn how to configure Git and set up your user information
 * git --unset-all example.key
 * git config --remove-section section
 
-
 ## 5 Branching
 
 Practice creating and switching between branches
@@ -116,15 +115,38 @@ Practice creating and switching between branches
 * git config --list
 * git branch my_new_branch
 * git switch -c my_new_branch
+* git checkout my_new_branch
+* git branch -m existing_branch_name to new_branch_name
 
+Log flag
+
+* git log decoration=full
+* git log decoration=no
+* git log --graph
+* git log --graph
+* short: the default
+* full: shows the full ref name
+* no: no decoration
 
 ## 6 Merge
 
 Merge changes from one branch into another and learn how merge commits work
 
+* git merge branch_name
+* git log --oneline --graph --decorate --parents
+* git branch -d branch_name
+
+Terms
+
+* merge base
+* rebase
+* pointer
+
 ## 7 Rebase
 
 Learn about the cooler way to integrate changes from one branch into another
+
+
 
 ## 8 Reset
 
