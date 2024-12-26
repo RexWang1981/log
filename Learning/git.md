@@ -196,15 +196,42 @@ Learn how to use Git with GitHub, the most popular Git hosting service
 
 Learn about using a .gitignore file to exclude files and directories from being tracked by Git.
 
-* git 
+* xxx
 
 ## 2.1 Fork
 
 Learn how to fork a repository and contribute to open source projects
 
+* git fork
+* git clone http://github.com/thePrimeagen/megacorp
+* git remote add upstream https://github.com/ORIGINAL-OWNER/ORIGIN
+* git add . && git commit -m "add myself as a contributor"
+* git checkout -b add_contrib
+* git push origin add_contrib
+* git remote -v
+* git remote rm origin
+
+Fork Work flow:
+
+1. Fork the main repo
+2. Clone down forked repo to own environment
+3. Make the changes to the main branch in the forked repo
+4. Push change to the main branch in the forked repo
+5. Open a pull request with the changes from the fork onto the original repo
+
+After fork the other people's repo, normally set new remote to the original repo incase to get the new update from the original repo. Also help to eliminate the conflict with the pull request.
+
 ## 2.2 Reflog
 
 Work with the reference log to recover lost commits
+
+* cat .git/HEAD
+* git reflog HEAD@{0} : where HEAD is now
+* git reflog HEAD@{1} : where HEAD was 1 move ago
+* git reflog HEAD@{2} : where HEAD was 2 move ago
+* git reflog HEAD@{n} : where HEAD was n move ago
+* git cat-file -p e6134a2
+* git merge HEAD@{1}
 
 ## 2.3 Merge Conflicts
 
@@ -214,13 +241,34 @@ Understand merge conflicts, how they arise, and how to resolve them
 
 Learn about rebase conflicts and how to safely keep the project history clean
 
+* git rebase main
+* git checkout --theirs
+* git checkout --ours
+* git rebase --continue: handle multi conflicts
+* git config --local rerere.enable false
+* re -rf .git/rr-cache
+* git rerere: remember how you solve the conflict and deal with the same kind of conflict automatically.
+* git config --unset --local rerere.enable
+* git config --list | grap rerere
+* git reset --soft HEAD~1
+
 ## 2.5 Squash
 
 Many teams require developers to squash commits, learn how and why you would do it
 
+* git push origin master
+* git push origin master --force  # dangerous but useful.
+* never squash main/master
+
 ## 2.6 Stash
 
 You don't always need to use branches to work on multiple things at once, learn how the stash can save time
+
+* git stash
+* git stash list
+* git stash pop
+* git stash@{0}
+* git stash --message "xxx"
 
 ## 2.7 Revert
 
