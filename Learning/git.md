@@ -3,7 +3,7 @@
 
 * [Learning resource](https://www.youtube.com/watch?v=rH3zE7VlIMs)
 
-## 1 Setup
+## 1.1 Setup
 
 Install and configure Git on your local machine
 
@@ -24,6 +24,11 @@ Shortcuts for the manual:
 * ls -a
 * find .git in foldername
 * cat .git in foldername
+* cat filename
+* echo "* The Intership" > titles.md
+* cd ..
+* cd ~/desktop/xxx
+* mkdir
 
 Porcelain and plumbing
 
@@ -69,11 +74,11 @@ Status
 * xxd path/to/file
 * git cat-file -p <filename>
 
-## 2 Repositories
+## 1.2 Repositories
 
 Learn about Git repositories, what they are, and how to work with commits
 
-## 3 Internals
+## 1.3 Internals
 
 Learn how Git stores data on the files system and the plumbing commands that make it all work
 
@@ -84,7 +89,7 @@ Terms
 * tree: git's way of storing a directory
 * blob: git's way of storing a file
 
-## 4 Config
+## 1.4 Config
 
 Learn how to configure Git and set up your user information
 
@@ -103,7 +108,7 @@ Learn how to configure Git and set up your user information
 * git --unset-all example.key
 * git config --remove-section section
 
-## 5 Branching
+## 1.5 Branching
 
 Practice creating and switching between branches
 
@@ -128,7 +133,7 @@ Log flag
 * full: shows the full ref name
 * no: no decoration
 
-## 6 Merge
+## 1.6 Merge
 
 Merge changes from one branch into another and learn how merge commits work
 
@@ -142,68 +147,97 @@ Terms
 * rebase
 * pointer
 
-## 7 Rebase
+## 1.7 Rebase
 
-Learn about the cooler way to integrate changes from one branch into another
+Learn about the cooler way to integrate changes from one branch into another.  
+You should never rebase a public branch (like main or master) onto anything else.
 
+* git rebase main
+* if conflict there options:
+  * modify
+  * delete
+  * xx
 
-
-## 8 Reset
+## 1.8 Reset
 
 Learn how to undo changes with the reset command
 
-## 9 Remote
+* git reset --soft COMMITHASH
+* git reset --hard COMMITHASH  # _this is an danger operation, avoid to do it_
+* git reset --soft HEAD~1
+* git diff --staged
+* git log --oneline -1
+* git log -p --oneline -1
+
+## 1.9 Remote
 
 Setup a remote repository and learn how to push and pull changes
 
-## 10 GitHub
+* git remote add <name> <url>
+* git fetch
+* git log origin/branch --oneline
+
+Terms
+
+* remote: in Git, the another repo is called remote. Not necessarily to be GitHub or other remote server, it can be local repo.
+* origin: the standard convention is that when you're treating the remote as the "authoritative source of truth" (such as GitHub) you would name it the "Origin".
+* upstream
+
+## 1.10 GitHub
 
 Learn how to use Git with GitHub, the most popular Git hosting service
 
-## 11 Gitignore
+* git push origin main
+* git pull [<remote|origin>/<branch>]
+* git pull origin master
+* git config --global pull.rebase true
+
+## 1.11 Gitignore
 
 Learn about using a .gitignore file to exclude files and directories from being tracked by Git.
 
-## 12 Fork
+* git 
+
+## 2.1 Fork
 
 Learn how to fork a repository and contribute to open source projects
 
-## 13 Reflog
+## 2.2 Reflog
 
 Work with the reference log to recover lost commits
 
-## 14 Merge Conflicts
+## 2.3 Merge Conflicts
 
 Understand merge conflicts, how they arise, and how to resolve them
 
-## 15 Rebase Conflicts
+## 2.4 Rebase Conflicts
 
 Learn about rebase conflicts and how to safely keep the project history clean
 
-## 16 Squash
+## 2.5 Squash
 
 Many teams require developers to squash commits, learn how and why you would do it
 
-## 17 Stash
+## 2.6 Stash
 
 You don't always need to use branches to work on multiple things at once, learn how the stash can save time
 
-## 18 Revert
+## 2.7 Revert
 
 Git reset is a bit of a blunt tool, learn about git revert and how to safely undo changes
 
-## 19 Cherry Pick
+## 2.8 Cherry Pick
 
 Use git cherry pick to selectively move changes from one branch to another
 
-## 20  Bisect
+## 2.9  Bisect
 
 Slogging through git history can be time consuming, learn how git bisect can find bugs fast
 
-## 21 Worktrees
+## 2.10 Worktrees
 
 Learn when git worktrees can be better than regular old branches when it comes to parallel development
 
-## 22 Tags
+## 2.11 Tags
 
 Learn how to use git tags properly to version and release your code
