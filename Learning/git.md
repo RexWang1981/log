@@ -69,10 +69,13 @@ Status
 * xxd path/to/file
 * git cat-file -p <filename>
 
-
 ## 2 Repositories
 
 Learn about Git repositories, what they are, and how to work with commits
+
+## 3 Internals
+
+Learn how Git stores data on the files system and the plumbing commands that make it all work
 
 Terms
 
@@ -81,17 +84,39 @@ Terms
 * tree: git's way of storing a directory
 * blob: git's way of storing a file
 
-## 3 Internals
-
-Learn how Git stores data on the files system and the plumbing commands that make it all work
-
 ## 4 Config
 
 Learn how to configure Git and set up your user information
 
+* git config --add --global user.name "Rex Wang"
+  * git config: the commend that interact with your Git configuration
+  * --add: flag starting you want to add a configuration
+  * --global: flag starting you want this configuration to be stored globally in your ~/gitconfig file. The opposite is "local". which stores the configuration in the current repository only.
+  * user: the section
+  * name: the key within the section
+  * “RexWang”：the value you want to set for the key
+* git config --list --local
+* git config --list --global
+* git config --get user.name
+* git config --get user.email
+* git --unset
+* git --unset-all example.key
+* git config --remove-section section
+
+
 ## 5 Branching
 
 Practice creating and switching between branches
+
+* git branch
+* git branch -m oldname newname
+* git branch -m master main
+* git config --add --global init.defaultBranch main
+* git config --unset-all init.defaultBranch
+* git config --list
+* git branch my_new_branch
+* git switch -c my_new_branch
+
 
 ## 6 Merge
 
