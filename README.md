@@ -9,7 +9,7 @@
 * [生活原则](Lesson_learned\life_principle.md)
 * [工作笔记](Work)
 * [个人日记](Diary)
-* [读书笔记](Reading)
+* [读书笔记](Reading\reading.md)
 * [学习笔记](Learning)
 * [经验教训](Lesson_learned)
 * [大事件记录](Event)
@@ -18,4 +18,3 @@
 
 * [Links](Link.md)
 * [Python工具](Python)
-* 
