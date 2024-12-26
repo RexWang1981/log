@@ -269,23 +269,64 @@ You don't always need to use branches to work on multiple things at once, learn 
 * git stash pop
 * git stash@{0}
 * git stash --message "xxx"
+* git stash apply
+* git stash drop
+* git stash apply stash@{2}
+* git stash drop stash@{2}
 
 ## 2.7 Revert
 
 Git reset is a bit of a blunt tool, learn about git revert and how to safely undo changes
 
+* git log
+* git reverse <commit-hash>
+* git diff
+* git diff HEAD~1
+* git diff COMMIT_HASH_1 COMMIT_HASH_2
+
 ## 2.8 Cherry Pick
 
 Use git cherry pick to selectively move changes from one branch to another
+
+* git cherry-pick <commit-hash>
+* git cherry-pick --abort
 
 ## 2.9  Bisect
 
 Slogging through git history can be time consuming, learn how git bisect can find bugs fast
 
+* git bisect start
+* git bisect good <commitish>
+* git bisect bad <commitish>
+* git bisect reset
+* git show HASH
+
 ## 2.10 Worktrees
 
 Learn when git worktrees can be better than regular old branches when it comes to parallel development
 
+* git worktree list
+* git worktree add <path> [<branch>]
+
 ## 2.11 Tags
 
 Learn how to use git tags properly to version and release your code
+
+* git tag
+* git tag -a "2024-12-26 milestone" -m "message"
+* git tag -a v3.10.2 -m "fixed a lil bug"
+* git push origin --tags
+
+Term:
+
+* Semver
+  * v
+  * Major (breaking change)
+  * .
+  * Minor (safe feature)
+  * .
+  * Patch (safe bug fixes)
+* Example: **v3.12.5**
+
+---
+Done 2024-12-26
