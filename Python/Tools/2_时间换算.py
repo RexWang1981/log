@@ -1,0 +1,11 @@
+from datetime import datetime, timedelta
+now = datetime.now()
+print("此刻北京时间是：", now)
+india_time=now-timedelta(hours=2.5)
+europe_time=now-timedelta(hours=6)
+us_time=now-timedelta(hours=14)
+mex_time=now-timedelta(hours=13)
+print("此刻印度时间是：",india_time)
+print("此刻欧洲时间是：",europe_time)
+print("此刻美国时间是：",us_time)
+print("此刻墨西哥时间是：",mex_time)

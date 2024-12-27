@@ -328,5 +328,16 @@ Term:
   * Patch (safe bug fixes)
 * Example: **v3.12.5**
 
+## Example to start a repo
+
+* git init
+* git config --add --global user.name "Rex Wang"
+* git config --add --global user.email emailwangwei@gmail.com
+* git remote add origin https://github.com/RexWang1981/website.git
+* git config --global init.defaultBranch master
+* git add .
+* git commit -m "1st change, tidy the folder tree"
+* git status
+
 ---
 Done 2024-12-26
