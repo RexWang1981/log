@@ -8,4 +8,5 @@
     3. control+p调出文件清单
     3. control+p+@ 入关键字缩小范围
     4. control+/ 改为注塑
-    5. 
+    5. control+shift+] 快速切换窗口
+    6. control+shift+[ 快速切换窗口
