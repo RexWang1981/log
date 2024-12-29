@@ -48,6 +48,7 @@
 * [Figma_board](https://www.figma.com/files/team/1436010851375635126/recents-and-sharing?fuid=1436010849431191830)
 * [芯查查](https://www.xcc.com/)
 * [TempSMS](https://7sim.pro/)
+* [Convert to MarkDown Format](https://markitdown.pro/)
 
 ## Report
 
@@ -131,6 +132,8 @@
 * 《人月神话：软件项目管理之道》 Brooks, Frederick P·布鲁克斯
 * 《与熊共舞: 软件项目风险管理》 DeMarco, Tom·德马科,迪马可,李斯特
 * 《嵌入式系统一使用C/C++（Programming Embedded System in C and C++）》
+* [Crash cause](https://markitdown.pro/)
+* 
 
 ## 小Lin推荐书单
 
