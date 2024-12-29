@@ -11,6 +11,16 @@
 
 * Current Module
 * 📺 Should You Start A Startup?
+  * resiliance people
+  * high energy
+  * motivation
+  * interested into the problem
+  * Idea & cofounder
+  * worst case analysis
+  * curiosity
+  * find smart people and talk ideas with them
+  * turn idea into side projects and lauch them, do the thing differently.
+
 * 📺 Why You Should Leave Your FAANG Job
 * 📖 Why to Not Not Start a Startup
 * 📖 Before the Startup

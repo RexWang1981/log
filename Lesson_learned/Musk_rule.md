@@ -103,3 +103,19 @@
         • 一旦他发现邮件内容里有错别字，就会咬住不放，甚至达到了有错字就无法阅读邮件内容的地步。
         • “我是个很复杂的人，但我的需求很简单，很明确。”
         • 他喜欢看书，打电子游戏和会友。
+
+## Musk method, logic
+
+1. Know where you are, the status, the background, the resource. It called start point.
+2. Know where you will go, what is the target. It called end point.
+3. Figure out a way from your current start point to the expected target. It called road map.
+4. Devide your road map to small milestones. and divide it to samll tasks. 
+5. figure out what is the condition to make the task done.
+6. Collect the "build block" to make the tesk done.
+
+It is easy.
+
+* Start point ---> tasks+task+task--->milestone-->tasks+task+task--->milestone-->tasks+task+task--->milestone-->end point.
+* list of the building block
+
+![Musk_Method](image.png)
