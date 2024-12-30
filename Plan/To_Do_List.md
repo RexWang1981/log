@@ -23,6 +23,7 @@
 - Saiwei motor analysis
 - Saiwei PCBA review.
 - <mark>Build 30pcs HILO LITE sample for Biagio. Jan 15, 2025. -Ida
+- 看乔福的材料是否符合VDE的要求。（看Meteor的邮件） -Rex
 
 #### AOS-Nangjing HPWH Low priority
 
@@ -72,7 +73,9 @@
 
 ## Others
 
-- xx
+- 项目清理和总结。
+- 申请签证，4月15日左右，去美国
+- 要邀请函
 
 ## VCP
 
