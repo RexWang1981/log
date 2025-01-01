@@ -1,5 +1,11 @@
 # Furnace learning
 
+## Terms
+
+* **AFAU** : Annual Fuel Utilization Efficiency: 年度燃料利用率
+* $$Furance Efficiency= AFAU={{FuleBurned}\over{FuelConverToUseableHeat}}$$
+* $${70-/80+/ 85+/90+/95+}$$
+
 ## Construction
 
 1. Mounted on the wall, with a big box. Motor, blower, controller ect are installed inside of the box.

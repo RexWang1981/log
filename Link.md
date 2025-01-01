@@ -104,6 +104,7 @@
 * [markdowm2HTML](https://md2html.com/)
 * [白噪音](https://soundbox.fun/sounds/waves29-birds47/)
 * [PDF translation](https://huggingface.co/spaces/reycn/PDFMathTranslate-Docker)
+* [Photopea](https://www.photopea.com/)
 
 ## 有趣的文章
 

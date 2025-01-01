@@ -18,3 +18,4 @@
 
 * [Links](Link.md)
 * [Python工具](/Python/)
+* [Ask myself weekly](/Tools/questions.md)
