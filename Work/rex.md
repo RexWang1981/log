@@ -21,3 +21,19 @@
 11. Problem-（拦路虎）-solution？如何识别拦路虎。
 12. 部门缺乏什么能力，如何建立？
 13. 部门应该做出哪些改变来提高绩效？
+
+## Facts about works
+
+1. Hard work isn't enough
+2. Loyalty won't pay the bill
+3. Your job title is temporary
+4. Your boss isn't always right
+5. Networking is non-negotiable
+6. Burnout is not a badge of honor
+7. Comfort zone kill growth
+8. Feedback is a gift
+9. You're always replaceable
+10. Perfection slows you down
+11. Career progress isn't linear
+12. No one will hand you success
+

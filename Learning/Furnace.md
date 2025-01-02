@@ -8,11 +8,17 @@
 
 ## Construction
 
-1. Mounted on the wall, with a big box. Motor, blower, controller ect are installed inside of the box.
+1. Mounted on the wall or close to the wall, with a big metal sheet box. Motor, blower, controller ect are installed inside of the box.
 
-2. A cover/door one front face of the box, which is screened, many small vent holes to allow cooling for the components inside.
+2. A cover/door in front face of the box, which is screened, many small vent holes on it to allow cooling for the components inside.
 
-3. Draft motor or called draft inducer motor.
+3. The Draft blower also called
+
+* **draft inducer blower** or
+* inducer draft blower, or
+* draft inducer, or
+* 排烟风机 or
+* 排废气风机
 
 4. After remove the doors. (Door with a handle, push up to remove it)
 

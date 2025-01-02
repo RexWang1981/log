@@ -84,7 +84,7 @@
 
 ---
 
-# Routing work:
+# Routing work
 
 - [Weekly Michele Report](https://regalrexnord.sharepoint.com/:x:/r/sites/GTCC-AirMovingTeam/_layouts/15/Doc.aspx?sourcedoc=%7B2108E0ED-962A-49DA-A545-1BC0C2ABAA88%7D&file=JX-ENG-Key_Project.xlsx&wdLOR=c6152DDD2-EE60-4D11-B592-8F4D007FF68F&action=default&mobileredirect=true)  
 - [Weekly Planner Tasks](https://planner.cloud.microsoft/webui/plan/_4Z_eoJfYkO6rpK76IxbJ2QAE-Cf?tid=c9e8e454-ead6-40c6-bc93-5b83567d5e1a)
