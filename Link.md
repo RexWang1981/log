@@ -13,6 +13,9 @@
 * [My_Log](https://github.com/RexWang1981/log?tab=readme-ov-file)
 * [RYF_weekly](https://github.com/ruanyf/weekly)
 * [TED](https://www.youtube.com/@TED)
+* [Simon Willison’s Weblog-AI expert](https://simonwillison.net/)
+* [2024-AI-products-prograss-Timeline](https://huggingface.co/spaces/reach-vb/2024-ai-timeline)
+* [2025-AI-products-prograss-Timeline](https://huggingface.co/spaces/reach-vb/2025-ai-timeline)
 
 ## AI tools
 
@@ -50,6 +53,7 @@
 * [芯查查](https://www.xcc.com/)
 * [TempSMS](https://7sim.pro/)
 * [Convert to MarkDown Format](https://markitdown.pro/)
+* [Search-arXiv](https://searchthearxiv.com/)
 
 ## Report
 
@@ -97,6 +101,7 @@
 * [白噪音](https://soundbox.fun/sounds/waves29-birds47/)
 * [PDF translation](https://huggingface.co/spaces/reycn/PDFMathTranslate-Docker)
 * [Photopea](https://www.photopea.com/)
+* [HTML语法](/Tools/HTML.md)
 
 ## Learning
 

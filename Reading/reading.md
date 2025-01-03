@@ -84,10 +84,33 @@
 * [穷爸爸富爸爸]()
 * [非理性繁荣]()
 * [原则]()
-* []()
-* []()
-* []()
-* []()
+
+#### Basic knowledge
+
+* [The millionaire next door 邻家的百万富翁]() -UWA & PWA
+* [Your money or your life - Vicki Robin]() - 9 steps
+* [The psychology of money - Morgan Housel]()
+* [Early retairement extrem - Jacob Lund Fisker]()
+
+#### Regarding finance history
+
+* [The economic of money, banking and finance markets -Frederic S. Mishkin]()
+* [A random walk down wall street - Burton G Maiklei]()
+* [Americana 1 400-year history of american capitalism - bhu srinivasan]()
+* [Lord of finance - Liaquat Ahamed]()
+
+#### Regarding Index bond
+
+* [Millionaire teacher =Andrew hallam]() -Canada authour
+* [The little book of common sense investing - John C. Bogle]() -Vangard
+* [The single path to wealth - JL Collins]()
+* [The elements of investing - Charles D. Ellis]()
+
+#### Regarding stocks
+
+* [Invested-Danielle Town]()
+* [One up on wall street-PeterLynch]()
+* [The intelligent invsteor - Benjamin Graham]()
 
 
 ## 小Lin推荐书单
