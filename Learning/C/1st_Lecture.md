@@ -9,6 +9,8 @@
 * C is a low level language.
 * [C Lecture](https://www.youtube.com/watch?v=PaPN51Mm5qQ)
 
+* [CS50x 2024 Lecture](https://www.youtube.com/watch?v=cwtpLIWylAw&t=2491s)
+
 * [C for everybody](https://www.cc4e.com/)
 
 

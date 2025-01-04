@@ -76,11 +76,18 @@
 - 项目清理和总结。
 - 申请签证，4月15日左右，去美国
 - 要邀请函
+- 安装Visual Studio for C programming
+- 设置和Josh/Derrin的周会
+- 设置和Devan/Mark的周会
+- Check with Devan for transition project. from mexico to jiaxing
+- 学习绘制编辑图
+- 学习绘制功能图
+- 学习绘制系统，子系统图
+- xx
 
 ## VCP
 
 - 风叶，材料更改
-- 绝缘架 VCP
 
 ---
 

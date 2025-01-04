@@ -1,7 +1,10 @@
 # FMEA 10 steps
 
+
+
 ## Basic conception
 
+* IATF16949
 * DVP&R: Design Validation and Product Review
 * APQP
 * AIAG-VDA
@@ -43,6 +46,78 @@
   * Not environment friendly
 * PFMEA is to identify the weakpoint of the process.
 
+---
+
+<details>
+    <summary>FMEA种类</summary>
+        <li> DFMEA
+        <li> PFMEA
+        <li> FMEA-MSR （监视及系统响应的补充FMEA）
+</details>
+
+---
+
+<details>
+    <summary>5 level for DFMEA</summary>
+        <li> 系统
+        <li> 系统要素
+        <li> 子系统要素
+        <li> 组件要素
+        <li> 零件
+</details>
+
+---
+
+<details>
+    <summary>风险管理及风险层级</summary>
+        <details>
+        <summary>经营风险</summary>
+          <li> 竞争对手
+          <li> 新的替代产品
+          <li> 市场紧缩
+          <li> 行业政策变化
+          <li> 经济衰退
+          <li> 顾客偏好改变
+          <li> 成本上升
+        </details>
+        <details>
+        <summary>管理风险</summary>
+          <li> 培训不足
+          <li> 流动率高
+          <li> 人才不足
+          <li> 岗位能力不足
+          <li> 不良率高
+          <li> 产能不足
+          <li> 交付风险
+          <li> 采购交期延误
+          <li> 物料不合格
+          <li> 资源不足
+          <li> 进度滞后
+          <li> 质量不良
+          <li> 成本过高
+        </details>
+        <details>
+        <summary>技术风险</summary>
+          <li> 设计带来的风险
+          <li> 制造带来的风险
+        </details>
+</details>
+
+---
+
+<details>
+<summary>触发FMEA的情形</summary>
+  <li> 新设计
+  <li> 改进设计
+  <li> 普通工程变更
+  <li> 设计或过程变更
+  <li> 运行条件变更
+  <li> 要求变更（法律，法规，顾客，最新技术要求）
+  <li> 质量问题，工厂经验，使用现场问题，内外部投诉
+  <li> 监视和测量过程中发现问题
+  <li> 经验教训
+</details>
+
 ## DFMEA roadmap
 
 * Prepare
@@ -83,8 +158,6 @@
 7. Record documentation
 
 ### 5. FMEA Tool : How to conduct an analysis?
-
-
 
 ## 10 Steps
 
@@ -159,3 +232,53 @@ The 8M's are all potential causes of a failure mode:
 
 ### 11. Identify the CTQ per VOC
 
+## 新版FMEA“七步法”
+
+### 1 策划和准备
+
+* 确定项目和边界
+* 项目规划： 目的，时间，安排，团队，任务，工具
+
+### 2 结构分析
+
+* 结构树
+* 方块图
+* 边界图
+* 数学模型
+* 实体部件
+* 设计接口
+* 相互作用
+* 间隙识别
+
+### 3 功能分析
+
+* 功能树
+* 功能网
+* 功能矩阵
+* 参数图
+* 将相关要求与内外部顾客功能关联
+* 将要求与特性与功能关联
+
+### 4 失效分析
+
+* 每个功能的潜在失效影响
+* 失效模式
+* 失效起因
+* 用参数图，识别失效起因
+* 用失效网，识别失效起因
+
+### 5 风险分析
+
+* 为失效评级，RPN
+* 对起因进行预防控制
+* 对起因或模式进行探测控制
+
+### 6 优化
+
+* 确定必要的措施
+* 实施措施，分配职责，期限
+* 确定措施实施后的效果，再次进行风险评估
+
+### 7 结果文件化
+
+* 文件化

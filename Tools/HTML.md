@@ -16,7 +16,7 @@
 
 ## 段落
 
-<p>
+<p fontcolor="red">
   Geckos are a group of usually small, usually nocturnal lizards. They are found on every continent except Antarctica.
 </p>
 
@@ -24,8 +24,8 @@
 
 <img
   class="fit-picture"
-  src="/media/cc0-images/grapefruit-slice-332-332.jpg"
-  alt="Grapefruit slice atop a pile of other slices" />
+  src="/"
+  alt="Grapefruit slice atop a pile of other slices" width="300">
 
 ## 视频
 
@@ -64,7 +64,7 @@
 
 ## 链接
 
-<link href="/media/examples/link-element-example.css" rel="stylesheet" />
+<a href="https://www.wikipedia.org/">A link to Wikipedia!</a>
 
 ## 删除线
 
@@ -134,3 +134,18 @@ It was a dark and stormy night...
 
 <hr/>
 
+## 输入信息
+
+<input type="text"> <!-- This is for text input -->
+<input type="file"> <!-- This is for uploading files -->
+<input type="checkbox"> <!-- This is for checkboxes -->
+
+## 注释
+
+<!-- This is a comment -->
+
+## 鼠标移过，显示说明信息
+
+<abbr id="anId" class="jargon" style="color:purple;" title="Hypertext Markup Language">HTML</abbr>
+
+&lt
