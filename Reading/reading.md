@@ -1,5 +1,7 @@
 # Reading tree
 
+> Reading is always matter.
+
 ## Leaders:
 
 * [Paul Graham's blog](https://www.paulgraham.com/articles.html)
@@ -128,6 +130,8 @@
 ## 读书笔记
 
 * [《非暴力沟通》](https://www.toutiao.com/article/7429707685110481418/?log_from=3f02b4955e25d_1729949861986)
+* [《PET父母效能训练》](/Reading/PET父母效能训练.md)
+* [《我们如何思考》-杜威]()
 
 
 ## Watching
