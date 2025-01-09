@@ -152,7 +152,7 @@
 * **Software**: SW05BEMH
 * **BOM**: ECE110/230V
 * **Scheme**: MSE082/230V
-* **Layout**: 1550032
+* **Layout**: 1550032;
 
 ---
 
@@ -680,7 +680,7 @@
 * **P/N**: 3558CM01001H (1780/1550/1300/-1550rpm), 90~240V,FBS,SR-NFC
 * **Software**: SW A M01 18 15 13 -15 R
 * **Reverse**：YES, on 4th speed
-* **BOM**: ECE123(H31) & ECE134(H41)
+* **BOM**: ECE123(H31) & ECE124(H41)
 * **Scheme**: MSE098(H31) & MSE099(H41)
 * **Layout**: 1553001
 
@@ -689,7 +689,7 @@
 * <mark>**P/N**: 3558CM01002H (1550/1000/1780/2400 rpm), 90~240V, FBS,SR-NFC
 * **Software**: SW A M01 15 10 18 24 N
 * **Reverse**：No
-* **BOM**: ECE123(H31) & ECE134(H41)
+* **BOM**: ECE123(H31) & ECE124(H41)
 * **Scheme**: MSE098(H31) & MSE099(H41)
 * **Layout**: 1553001
 

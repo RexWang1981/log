@@ -1,6 +1,6 @@
 # 阅读进度 <progress max="14" value="7">
 
-<emailwangwei@gmailcom>  
+<emailwangwei@gmail.com>  
 <https://github.com/RexWang1981/log>  
 Date：2025-01-05
 
@@ -268,4 +268,4 @@ Date：2025-01-05
 6. 劳累
 
 ---
-TBD《读到第7章结束》
+TBD《读到第7章结束》\

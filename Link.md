@@ -15,6 +15,8 @@
  [RYF_weekly](https://github.com/ruanyf/weekly) |
  [TED](https://www.youtube.com/@TED) |
  [Simon Willison’s Weblog-AI expert](https://simonwillison.net/) |
+ [Ref_industry_website](https://refindustry.com/) |
+ 
 
 ## AI tools
 
